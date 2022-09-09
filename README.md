@@ -1,3 +1,2 @@
 # WebpackBabelEslint
-
-# This repo contains the basic setting to WebPack Babel And ESLint
+This repo contains the basic setting to WebPack Babel And ESLint
